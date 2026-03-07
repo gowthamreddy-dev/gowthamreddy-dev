@@ -92,14 +92,10 @@ status     : Building · Learning · Growing
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowthamreddy-dev&theme=tokyonight" width="100%"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gowthamreddy-dev&theme=tokyonight&utcOffset=5.5" height="175"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gowthamreddy-dev&theme=tokyonight" height="175"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamreddy-dev&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
