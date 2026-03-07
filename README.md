@@ -78,7 +78,7 @@ status     : Building · Learning · Growing
 
 <img src="https://github-stats-alpha.vercel.app/api?username=gowthamreddy-dev&cc=0d1117&tc=36BCF7&ic=36BCF7&bc=0d1117" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamreddy-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gowthamreddy-dev&theme=tokyonight" height="175"/>
 
 <br/>
 
@@ -92,10 +92,14 @@ status     : Building · Learning · Growing
 
 ---
 
-## 📈 Contribution Snake
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gowthamreddy-dev/gowthamreddy-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowthamreddy-dev&theme=tokyonight" width="100%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gowthamreddy-dev&theme=tokyonight&utcOffset=5.5" height="175"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gowthamreddy-dev&theme=tokyonight" height="175"/>
 </div>
 
 ---
