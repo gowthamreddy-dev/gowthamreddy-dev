@@ -92,14 +92,6 @@ status     : Building · Learning · Growing
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamreddy-dev&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
