@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Indla%20Venkata%20Gowtham%20Kumar%20Reddy&fontSize=26&fontColor=ffffff&fontAlignY=40&desc=Python%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Indla%20Venkata%20Gowtham%20Kumar%20Reddy&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20ML%20Enthusiast%20%7C%20VR%20Innovator&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects;Consistency+beats+motivation+%F0%9F%9A%80" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/indlagowthamreddy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:igowthamreddy78@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gowthamreddy-dev)
-![Profile Views](https://komarev.com/ghpvc/?username=gowthamreddy-dev&color=36BCF7&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indlagowthamreddy)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igowthamreddy78@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowthamreddy-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=gowthamreddy-dev&color=36BCF7&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -18,19 +18,20 @@
 ```yaml
 name       : Indla Venkata Gowtham Kumar Reddy
 handle     : gowthamreddy-dev
-role       : Python Developer · ML Enthusiast
+role       : Python Developer · ML Enthusiast · VR Developer
 education  : Computer Science Student 🎓
-focus      : Machine Learning · Data-Driven Systems · Backend Dev
-interests  : AI/ML · Automation · Problem Solving
+focus      : Machine Learning · VR Simulation · Backend Development
+interests  : AI/ML · Immersive Tech · Automation · Problem Solving
 mantra     : "Consistency beats motivation 🚀"
 status     : Building · Learning · Growing
 ```
 
-- 🎓 **CS Student** specializing in **Python & Machine Learning**
+- 🎓 **CS Student** specializing in **Python, Machine Learning & VR Development**
 - 🤖 Passionate about building **practical, data-driven systems**
-- 🔭 Currently working on **AI/ML projects & automation tools**
+- 🥽 Developed an **immersive VR lab** for electrical engineering simulation using Unity
+- 🔭 Currently working on **AI/ML projects, automation tools & VR experiences**
 - 🌱 Continuously sharpening **problem-solving skills** through real-world projects
-- 💬 Ask me about **Python, Machine Learning, Flask, Django**
+- 💬 Ask me about **Python, Machine Learning, Flask, Django, Unity VR**
 - 📫 Reach me at **[igowthamreddy78@gmail.com](mailto:igowthamreddy78@gmail.com)**
 
 ---
@@ -38,20 +39,32 @@ status     : Building · Learning · Growing
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🌐 Web & Backend
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF5733?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🥽 VR / 3D Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![OpenXR](https://img.shields.io/badge/OpenXR-FF0000?style=for-the-badge&logo=oculus&logoColor=white)
+![SteamVR](https://img.shields.io/badge/SteamVR-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-UI%20%26%20Textures-e84393?style=for-the-badge&logo=canva&logoColor=white)
+
 ### 🤖 Machine Learning & Data
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -59,16 +72,19 @@ status     : Building · Learning · Growing
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ☁️ Tools & Platforms
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
@@ -96,6 +112,7 @@ status     : Building · Learning · Growing
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| 🥽 **Power Measurement VR Simulation** | Immersive VR lab for measuring three-phase power using the Two Wattmeter Method — no physical setup needed | Unity · C# · Blender · OpenXR · Canvas |
 | 🤖 **ML Model Training & Evaluation** | End-to-end pipeline for training, evaluating, and comparing ML models | Python · Scikit-Learn · Pandas |
 | 🗓️ **AI-Based Task Scheduling System** | Smart scheduler leveraging AI for priority-based task management | Python · Flask · ML |
 | 📊 **Data Analysis & Visualization** | Insightful dashboards and visual reports from raw datasets | Python · Matplotlib · Jupyter |
@@ -103,13 +120,30 @@ status     : Building · Learning · Growing
 
 ---
 
+## 🏆 Highlights
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🥽  VR Lab Developer   →  Two Wattmeter Method Simulation   ║
+║  🤖  ML Engineer        →  End-to-end model pipelines        ║
+║  🐍  Python Developer   →  Flask · Django · Automation       ║
+║  📐  CS Student         →  Always building, always learning  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indlagowthamreddy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igowthamreddy78@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowthamreddy-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indlagowthamreddy)
+[![Email](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igowthamreddy78@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowthamreddy-dev)
+
+<br/>
+
+*💡 Open to collaborations on ML, Python, and VR projects*
 
 </div>
 
@@ -117,8 +151,8 @@ status     : Building · Learning · Growing
 
 <div align="center">
 
-*⭐ Consistency beats motivation &nbsp;|&nbsp; 🚀 Focused on growth in Python & Machine Learning*
+*⭐ Consistency beats motivation &nbsp;|&nbsp; 🚀 Python · ML · VR — Building what matters*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
